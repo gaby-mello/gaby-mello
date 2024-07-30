@@ -1,6 +1,6 @@
 ## Olá 👋  Bem vindo ao meu perfil
 
-Me chamo Gabrielly Martins 
+Eu me chamo Gabrielly Martins 
 
 -Estou estudando na Alura
 -Estou me desenvolvendo na linguagem JavaScript
